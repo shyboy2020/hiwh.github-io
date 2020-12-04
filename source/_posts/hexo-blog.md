@@ -1,5 +1,8 @@
-# hexo
+---
+title: hexo-blog
+---
 
+# hexo
 > 简单
 
 安装hexo脚手架
